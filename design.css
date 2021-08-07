@@ -74,12 +74,14 @@ html, body {
 .links-list i {
     width: 1.75em;
 }
+/*main*/
 .main {
     width: 77%;
     height: auto;
     margin-left: 23%;
     padding: 0 4em;
 }
+/*open button*/
 .openbtn {
     width: 100%;
     display: block;
