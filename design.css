@@ -105,6 +105,7 @@ html, body {
     background-color: var(--white2);
     color: var(--black);
 }
+/*main titles*/
 .main h2 {
     font-size: 45pt;
     padding-top: 1.5em;
@@ -114,6 +115,7 @@ html, body {
     color: var(--red);
     padding-top: 0.5em;
 }
+/*titles underline*/
 .title-underline {
     width: 50px;
     height: 10px;
