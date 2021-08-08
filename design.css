@@ -163,6 +163,7 @@ html, body {
 .designers-intro {
     font-weight: 500;
 }
+/*designers list*/
 .designers-list {
     display: flex;
     flex-flow: row wrap;
@@ -172,6 +173,7 @@ html, body {
 .designers-list li {
     width: 32%;
 }
+/*figures*/
 .figure-img {
     width: 100%;
     height: 200px;
