@@ -180,6 +180,7 @@ html, body {
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
+/*figures caption*/
 .figure-caption {
     width: 100%;
     height: auto;
@@ -196,6 +197,7 @@ html, body {
     font-size: 12.5pt;
     font-weight: 500;
 }
+/*packages*/
 .packages {
     display: flex;
     flex-flow: row wrap;
