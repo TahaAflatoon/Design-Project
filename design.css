@@ -126,6 +126,7 @@ html, body {
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
 }
+/*images list*/
 .images-list {
     list-style-type: none;
     display: flex;
@@ -146,6 +147,7 @@ html, body {
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
 }
+/*images & titles style*/
 .first-images {
     height: 355px;
 }
