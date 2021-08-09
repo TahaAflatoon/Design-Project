@@ -304,6 +304,7 @@ html, body {
 .form-inputs:focus {
     box-shadow: 0 0 5px var(--white3);
 }
+/*form submit*/
 .submit-button {
     width: 100%;
     display: block;
