@@ -278,6 +278,7 @@ html, body {
     font-size: 12.5pt;
     font-weight: 500;
 }
+/*form inputs icons*/
 #Name {
     background: url('./Pictures/person-30.png') 5px 5px no-repeat;
 }
