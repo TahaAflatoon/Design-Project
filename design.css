@@ -23,14 +23,14 @@ html, body {
 }
 
 /*CSS*/
-/*site sections*/
+/*Site sections*/
 .site-sections {
     width: 100%;
     height: 100%;
     display: flex;
     flex-flow: row wrap;
 }
-/*header*/
+/*Header*/
 .header {
     width: 23%;
     height: 100%;
@@ -47,7 +47,7 @@ html, body {
     list-style-type: none;
     padding-top: 3em;
 }
-/*header links*/
+/*Header links*/
 .links-list a {
     color: var(--white);
     display: inline-block;
@@ -74,14 +74,14 @@ html, body {
 .links-list i {
     width: 1.75em;
 }
-/*main*/
+/*Main*/
 .main {
     width: 77%;
     height: auto;
     margin-left: 23%;
     padding: 0 4em;
 }
-/*open button*/
+/*Open button*/
 .openbtn {
     width: 100%;
     display: block;
@@ -90,8 +90,8 @@ html, body {
     color: var(--white);
     border: none;
     font-weight: 500;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 2.5px;
+    border-bottom-right-radius: 2.5px;
     transition: 0.5s ease;
     -webkit-transition: 0.5s ease;
     -moz-transition: 0.5s ease;
@@ -105,7 +105,7 @@ html, body {
     background-color: var(--white2);
     color: var(--black);
 }
-/*main titles*/
+/*Main titles*/
 .main h2 {
     font-size: 45pt;
     padding-top: 1.5em;
@@ -115,7 +115,7 @@ html, body {
     color: var(--red);
     padding-top: 0.5em;
 }
-/*titles underline*/
+/*Titles underline*/
 .title-underline {
     width: 50px;
     height: 10px;
@@ -126,7 +126,7 @@ html, body {
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
 }
-/*images list*/
+/*Images list*/
 .images-list {
     list-style-type: none;
     display: flex;
@@ -147,7 +147,7 @@ html, body {
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
 }
-/*images & titles style*/
+/*Images & Titles style*/
 .first-images {
     height: 355px;
 }
@@ -163,7 +163,7 @@ html, body {
 .designers-intro {
     font-weight: 500;
 }
-/*designers list*/
+/*Designers list*/
 .designers-list {
     display: flex;
     flex-flow: row wrap;
@@ -173,14 +173,14 @@ html, body {
 .designers-list li {
     width: 32%;
 }
-/*figures*/
+/*Figures*/
 .figure-img {
     width: 100%;
     height: 200px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
-/*figures caption*/
+/*Figures caption*/
 .figure-caption {
     width: 100%;
     height: auto;
@@ -197,7 +197,7 @@ html, body {
     font-size: 12.5pt;
     font-weight: 500;
 }
-/*packages*/
+/*Packages*/
 .packages {
     display: flex;
     flex-flow: row wrap;
@@ -240,7 +240,7 @@ html, body {
     font-size: 12.5pt;
     opacity: 0.7;
 }
-/*packages sign up*/
+/*Packages sign up*/
 .sign-up {
     padding: 1rem;
     background-color: var(--white4);
@@ -272,13 +272,13 @@ html, body {
     background-color: #333;
     color: var(--white);
 }
-/*contact*/
+/*Contact*/
 .contact-text {
     padding: 1.75rem 0;
     font-size: 12.5pt;
     font-weight: 500;
 }
-/*form inputs icons*/
+/*Form inputs icons*/
 #Name {
     background: url('./Pictures/person-30.png') 5px 5px no-repeat;
 }
@@ -289,7 +289,7 @@ html, body {
     background: url('./Pictures/message-30.png') 5px 5px no-repeat;
     resize: none;
 }
-/*form inputs*/
+/*Form inputs*/
 .form-inputs {
     width: 100%;
     padding: 0.5rem 2.75rem;
@@ -304,7 +304,7 @@ html, body {
 .form-inputs:focus {
     box-shadow: 0 0 5px var(--white3);
 }
-/*form submit*/
+/*Form submit*/
 .submit-button {
     width: 100%;
     display: block;
@@ -323,7 +323,7 @@ html, body {
 .submit-button:hover {
     opacity: 0.9;
 }
-/*footer*/
+/*Footer*/
 .footer {
     width: 77%;
     height: 200px;
