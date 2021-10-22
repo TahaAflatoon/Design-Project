@@ -1,13 +1,13 @@
-/* (Responsive)*/
+/* (Responsive) */
 /* Mobile (small) */
 @media screen and (min-width:320px) and (max-width:374px) {
-/*Header*/
+/* Header */
 .header {
     width: 100%;
     height: auto;
     display: none;
 }
-/*Close button*/
+/* Close button */
 .closebtn {
     position: absolute;
     top: 0.5em;
@@ -20,11 +20,11 @@
 .header h1 {
     padding: 0.25em 0 0 0.75rem;
 }
-/*Links list*/
+/* Links list */
 .links-list {
     padding-top: 0.25em;
 }
-/*Main*/
+/* Main */
 .main {
     width: 100%;
     margin: 0;
@@ -33,21 +33,21 @@
 .main h2 {
     padding-top: 0.5em;
 }
-/*Images*/
+/* Images */
 .images-list li {
     width: 100%;
 }
 .first-images {
     height: auto;
 }
-/*Designers list*/
+/* Designers list */
 .designers-list {
     flex-flow: column wrap;
 }
 .designers-list li {
     width: 100%;
 }
-/*Packages*/
+/* Packages */
 .packages {
     flex-flow: column wrap;
 }
@@ -55,7 +55,7 @@
     width: 100%;
     padding-bottom: 1rem;
 }
-/*Footer*/
+/* Footer */
 .footer {
     width: 100%;
     margin-left: 0;
