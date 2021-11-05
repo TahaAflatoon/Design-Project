@@ -1,4 +1,4 @@
-/*JQuery*/
+// JQuery
 $.noConflict()
 jQuery(document).ready(function($) {
     // Close button
